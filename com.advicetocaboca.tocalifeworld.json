@@ -65,6 +65,14 @@
 
   "Data": [
     {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Pets Secrets & Helpful Tips",
+      "image": "https://technifiser.com/wp-content/uploads/2021/01/Toca-Life-World-Screenshot-3.jpg",
+      "description": "We’ll let you in on some of the pets secrets, check it out!.",
+      "link": "https://zerocorpdev.github.io/advicetocaboca/4-PetsSecrets%26HelpfulTips.html"
+    },
+    {
       "id": 2,
       "name_category": "Easy",
       "title": "Secrets You Can Find in the Game",
