@@ -65,7 +65,7 @@
 
   "Data": [
     {
-      "id": 1,
+      "id": 2,
       "name_category": "Easy",
       "title": "Secrets You Can Find in the Game",
       "image": "https://d28ipuewd7cdcq.cloudfront.net/assets/article/2020/01/17/toca-life-world-dentist_feature.png",
@@ -73,7 +73,7 @@
       "link": "https://zerocorpdev.github.io/advicetocaboca/3-SecretsYouCanFindintheGame.html"
     },
     {
-      "id": 2,
+      "id": 3,
       "name_category": "Easy",
       "title": "Helpful Tips & Hints (Cheats) You Should Know",
       "image": "https://d28ipuewd7cdcq.cloudfront.net/assets/article/2019/05/23/toca-life-world_feature.png",
@@ -81,7 +81,7 @@
       "link": "https://zerocorpdev.github.io/advicetocaboca/2-HelpfulTips%26Hints(Cheats%20)YouShouldKnow.html"
     },
     {
-      "id": 3,
+      "id": 4,
       "name_category": "Medium",
       "title": "Toca Boca & Toca Life World",
       "image": "https://www.spinmaster.com/static/095884104c311692b566c04e9b50de70/fed0c/TocaLifeWorld-Hero-Banner-Desktop__1_.png",
