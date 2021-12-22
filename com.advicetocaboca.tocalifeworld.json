@@ -1,15 +1,15 @@
 {
   "Ads": [
     {
-      "select_main_ads": "STARTAPP",
+      "select_main_ads": "APPLOVIN-D-NB",
       "select_backup_ads":"STARTAPP",
       "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "main_ads_intertitial":"149f627a91b1d1b9",
       "native_for_admob":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"211503654",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"211503654",
       "high_paying_keyword_1": "toca boca",
       "high_paying_keyword_2": "toca life world",
