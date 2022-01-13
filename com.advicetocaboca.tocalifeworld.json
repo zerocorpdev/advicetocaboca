@@ -1,21 +1,21 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-1003836792919645/6197672335",
-      "main_ads_intertitial":"ca-app-pub-1003836792919645/3571508999",
-      "native_for_admob":"ca-app-pub-1003836792919645/6006100648",
+      "main_ads_banner": "0ed11f18932e5919",
+      "main_ads_intertitial":"149f627a91b1d1b9",
+      "native_for_admob":"",
       "backup_ads_banner":"0ed11f18932e5919",
       "backup_ads_intertitial":"149f627a91b1d1b9",
       "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "toca boca",
-      "high_paying_keyword_2": "toca life world",
-      "high_paying_keyword_3": "toca world",
-      "high_paying_keyword_4": "boca toca",
-      "high_paying_keyword_5": "educational game",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
